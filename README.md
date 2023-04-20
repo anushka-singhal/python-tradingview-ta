@@ -1,5 +1,5 @@
 # TradingView-TA Has Been Archived
-It's been 6 months since the last release of TradingView-TA, and I've made the decision to no longer maintain this repository. 
+It's been six months since the last release of TradingView-TA, and I've made the decision to no longer maintain this repository. 
 Managing a somewhat large and complex project like this has been a great learning experience for me.
 
 # Reason for Archiving
